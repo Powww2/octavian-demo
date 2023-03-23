@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "formulahendry.code-runner",
+        "xabikos.javascriptsnippets"
+    ]
+}
